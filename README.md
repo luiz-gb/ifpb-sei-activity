@@ -18,11 +18,21 @@ Saída
 Imprima a mensagem "X = " (letra X maiúscula) seguido pelo valor da variável X e pelo final de linha. Cuide para que tenha um espaço antes e depois do sinal de igualdade, conforme o exemplo abaixo.
 
 
-| **Exemplos de Entrada** | **Exemplos de Saída** |
-|-------------------------|-----------------------|
-| 10                      |                       |
-| 9                       | **X = 19**            |
-| -10                     |                       |
-| 4                       | **X = -6**            |
-| 15                      |                       |
-| -7                      | **X = 8**             |
+<table>
+  <tr>
+    <th>Exemplos de Entrada</th>
+    <th>Exemplos de Saída</th>
+  </tr>
+  <tr>
+    <td>10<br>9</td>
+    <td>X = 19</td>
+  </tr>
+  <tr>
+    <td>-10<br>4</td>
+    <td>X = -6</td>
+  </tr>
+  <tr>
+    <td>15<br>-7</td>
+    <td>X = 8</td>
+  </tr>
+</table>
