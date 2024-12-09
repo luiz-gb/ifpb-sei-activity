@@ -10,7 +10,7 @@ rl.on("line", (line) => {
   inputs.push(parseInt(line.trim()));
   if (inputs.length === 2) {
     const [a, b] = inputs;
-    const x = a + b;
+    const x = a + b + 1;
     console.log(`X = ${x}`);
     rl.close();
   }
